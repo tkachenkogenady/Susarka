@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android64=""/>
+	</ActiveMobileDevice>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.358,C:\delhppp\Projects\susa.dproj=C:\delhppp\sus\susa.dproj</Transaction>
+    <Transaction>2024.03.13 16:08:00.682,C:\delhppp\sus\susarka.dfm=C:\delhppp\Projects\susarka.dfm</Transaction>
+    <Transaction>2024.03.13 16:08:00.682,C:\delhppp\sus\susarka.pas=C:\delhppp\Projects\susarka.pas</Transaction>
+  </Transactions>
+</BorlandProject>
