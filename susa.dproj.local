@@ -4,8 +4,8 @@
 		<NoProfile Android64=""/>
 	</ActiveMobileDevice>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.358,C:\delhppp\Projects\susa.dproj=C:\delhppp\sus\susa.dproj</Transaction>
-    <Transaction>2024.03.13 16:08:00.682,C:\delhppp\sus\susarka.dfm=C:\delhppp\Projects\susarka.dfm</Transaction>
-    <Transaction>2024.03.13 16:08:00.682,C:\delhppp\sus\susarka.pas=C:\delhppp\Projects\susarka.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,C:\delhppp\sus\susa.dproj=C:\delhppp\Projects\susa.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,C:\delhppp\Projects\susarka.dfm=C:\delhppp\sus\susarka.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.682,C:\delhppp\Projects\susarka.pas=C:\delhppp\sus\susarka.pas</Transaction>
   </Transactions>
 </BorlandProject>
